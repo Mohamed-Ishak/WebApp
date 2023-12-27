@@ -1,0 +1,16 @@
+userName: mohamedishak_pFe0X4
+accessKey: W8TxdpJpc9aoiMdx4zFP
+framework: testng
+platforms:
+  - os: Windows
+    osVersion: 10
+    browserName: Chrome
+    browserVersion: 120.0
+  - os: Windows
+    osVersion: 10
+    browserName: Firefox
+    browserVersion: 121.0
+parallelsPerPlatform: 1
+browserstackLocal: true
+buildName: browserstack-build-1
+projectName: Web Application

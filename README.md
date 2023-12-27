@@ -27,6 +27,8 @@ So I define the Project into Parts:
      2 ) The BrowserStack platform  
          Make some configurations like 
          define a browserstack.yml file and add browserstack dependency and plugin in the Pom.xml file
-         
-  
+         can open this link to observe the browserstack 
+  https://automate.browserstack.com/dashboard/v2/public-build/a2ZEQXVsMnFKSnZTNVNiYjhNb2duMjhTZmNHUnJzSnZZMGdDSm5wWFFrQ2UwMDdXL3I0T3RLNjcxak9CYnZKcGF5Z1NZN0pTL3pqeHhiVnFSdkFiUlE9PS0tWUVxQ1haUnh1ZUpWbjM3THJOTExMZz09--29795a7f3370a408e56b316c1593a4009f535baa
    
+![image](https://github.com/Mohamed-Ishak/WebApp/assets/81917166/1d2464af-742c-47c8-aee1-60a5b98d66d0)
+![image](https://github.com/Mohamed-Ishak/WebApp/assets/81917166/a32140fa-0043-4883-b0f1-15bbe79b3eb0)
